@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4ef076df2f6affe1c7f28cf61b3b5cd5",
+    "revision": "4ceeaa9fd394623566912962dbbf28f0",
     "url": "/loginpagegtu/index.html"
   },
   {
