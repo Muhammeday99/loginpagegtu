@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/loginpagegtu/static/css/main.3d735af9.chunk.css",
+    "main.js": "/loginpagegtu/static/js/main.3f522fbf.chunk.js",
+    "main.js.map": "/loginpagegtu/static/js/main.3f522fbf.chunk.js.map",
+    "runtime~main.js": "/loginpagegtu/static/js/runtime~main.1eebdc9b.js",
+    "runtime~main.js.map": "/loginpagegtu/static/js/runtime~main.1eebdc9b.js.map",
+    "static/js/2.e010c1d5.chunk.js": "/loginpagegtu/static/js/2.e010c1d5.chunk.js",
+    "static/js/2.e010c1d5.chunk.js.map": "/loginpagegtu/static/js/2.e010c1d5.chunk.js.map",
+    "index.html": "/loginpagegtu/index.html",
+    "precache-manifest.6890a00f3fc618f9307ced068d9db8cd.js": "/loginpagegtu/precache-manifest.6890a00f3fc618f9307ced068d9db8cd.js",
+    "service-worker.js": "/loginpagegtu/service-worker.js",
+    "static/css/main.3d735af9.chunk.css.map": "/loginpagegtu/static/css/main.3d735af9.chunk.css.map"
+  }
+}
