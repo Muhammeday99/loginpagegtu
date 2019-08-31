@@ -1,6 +1,8 @@
 import React, { Component } from "react";
 import ReactDom from "react-dom";
-import "./Login.css"
+import "./Login.css";
+import ExitBtn from "./ExitButton";
+
 class Login extends Component{
 
   constructor(props){
@@ -17,6 +19,8 @@ class Login extends Component{
   }
   render(){
     return(
+      <div>
+      <ExitBtn />
       <div className="root-container">
         <div className="box-controller">
           <div className={"controller " + (this.state.isLoginOpen ? "selected-controller" : "")} onClick={this.showLoginBox.bind(this)}>
@@ -30,6 +34,7 @@ class Login extends Component{
           {this.state.isLoginOpen && <LoginBox />}
           {this.state.isRegisterOpen && <RegisterBox />}
         </div>
+      </div>
       </div>
     )
   }
